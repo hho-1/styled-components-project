@@ -1,4 +1,4 @@
 ## DEPLOYED:
 
-yarn https://styled-clarusway.netlify.app/
+https://main--joyful-jelly-04127a.netlify.app
 # styled-components-project
